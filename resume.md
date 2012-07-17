@@ -14,10 +14,24 @@
     * Windows
         * 3.1; 95; 98; ME; 2000; XP; Vista; 7
     * Linux & other *nix-based OS's
-      * Archlinux; Debian; Red Hat; FreeBSD; OpenBSD; SuSE 
+        * Archlinux; Debian; Red Hat; FreeBSD; OpenBSD; SuSE
     * Some Mac OS
+* Familiar with various graphic arts programs, the likes of:
+    * Adobe Photoshop & Illustrator
+    * The GIMP
+    * MS Paint & Kolourpaint
 
 --------------------------------------------------------------------------------
+
+## Other Information
+
+Github Profile: [https://github.com/serialhex](https://github.com/serialhex)  
+E-Mail: [serialhex@gmail.com](mailto:serialhex@gmail.com)
+
+
+--------------------------------------------------------------------------------
+# here... there be dragons!
+
 
 ## Employment History
 2010-2011 Common Sense Computers, SL Technician, Vero Beach, Fl,
