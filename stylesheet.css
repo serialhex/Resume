@@ -1,0 +1,35 @@
+/*this uses the solarized dark color scheme... enjoy!*/
+html, .dark {
+  background-color: #002b36;
+  color: #839496; }
+  html *,.dark * {
+    color: #839496; }
+  html h1, html h2, html h3, html h4, html h5, html h6, .dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6 {
+    color: #93a1a1;
+    border-color: #839496; }
+  html a, html a:active, html a:visited, .dark a, .dark a:active, .dark a:visited {
+    color: #93a1a1; }
+
+html * {
+  color-profile: sRGB;
+  rendering-intent: auto; }
+
+body {
+  font-size: 1.0em; }
+
+#header {
+  position: absolute;
+  left: 50px; }
+
+#sidepane {
+  width: 100px;
+  float: left;
+  position: fixed;
+  top: 75px;
+  left: 50px; }
+
+#main {
+  width: 500px;
+  position: absolute;
+  left: 220px;
+  top: 75px; }

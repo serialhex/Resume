@@ -1,2 +1,2 @@
 #!/bin/bash
-pandoc resume.md -o  resume.html
+pandoc resume.md -o static/resume.html --self-contained
