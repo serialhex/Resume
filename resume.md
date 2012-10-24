@@ -7,11 +7,12 @@
 ### Skills & Experience:
 * Program in various languages, including (but certainly not limited to):
     1. Ruby
-    2. C++
-    3. Haskell (a bit)
-    4. Common Lisp (some)
-    5. PHP (less)
-    6. Java (it exists)
+    1. Haskell
+    1. Common Lisp
+    1. C++ (I'm okay)
+    1. Clojure (slowly learning)
+    1. PHP (meh)
+    1. Java (it exists)
 * Proficient with various operating systems, such as:
     * Windows
         * 3.1; 95; 98; ME; 2000; XP; Vista; 7
