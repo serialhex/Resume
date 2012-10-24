@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------
 
-## Computer Programmer, Technician, All-Around Awesome Guy!
+## Computer Programmer, Technician, Budding Technnomancer.
 
 ### Skills & Experience:
 * Program in various languages, including (but certainly not limited to):
@@ -41,3 +41,4 @@ Phone: 772-643-2425
 Location: Vero Beach, FL  
 Editor: Sublime Text 2 (sorry, I don't fit into your Emacs vs vi box (though I'm learning vi))  
 Project Euler: ![serialhex](http://projecteuler.net/profile/serialhex.png)
+coderwall: [![endorse](http://api.coderwall.com/serialhex/endorsecount.png)](http://coderwall.com/serialhex)
