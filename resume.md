@@ -10,14 +10,16 @@
     1. Haskell
     1. Common Lisp
     1. C++ (I'm okay)
+    1. C#
+    1. Bash Scripting
     1. Clojure (slowly learning)
     1. PHP (meh)
     1. Java (it exists)
 * Proficient with various operating systems, such as:
     * Windows
-        * 3.1; 95; 98; ME; 2000; XP; Vista; 7
+        * 3.1; 95; 98; ME; 2000; XP; Vista; 7; 8
     * Linux & other *nix-based OS's
-        * Archlinux; Debian; Red Hat; FreeBSD; OpenBSD; SuSE
+        * Archlinux; Debian; Ubuntu; Red Hat; Slackware; Gentoo; FreeBSD; OpenBSD; SuSE
     * Some Mac OS X
 * 5+ years professional computer repair work, mastering tasks akin to:
     * Windows & general network administration
@@ -36,10 +38,10 @@
 
 ## Contact & Other Information
 
-Github Profile: [https://github.com/serialhex](https://github.com/serialhex)  
-E-Mail: [serialhex@gmail.com](mailto:serialhex@gmail.com)  
-Phone: 772-643-2425  
-Location: Vero Beach, FL  
-Editor: Sublime Text 2 (sorry, I don't fit into your Emacs vs vi box (though I'm learning vi))  
-Project Euler: ![serialhex](http://projecteuler.net/profile/serialhex.png)  
-coderwall: [![endorse](http://api.coderwall.com/serialhex/endorsecount.png)](http://coderwall.com/serialhex)  
+Github Profile: [https://github.com/serialhex](https://github.com/serialhex)
+E-Mail: [serialhex@gmail.com](mailto:serialhex@gmail.com)
+Phone: 772-643-2425
+Location: Vero Beach, FL
+Editor: Sublime Text 2 (sorry, I don't fit into your Emacs vs vi box (though I'm learning vi))
+Project Euler: ![serialhex](http://projecteuler.net/profile/serialhex.png)
+coderwall: [![endorse](http://api.coderwall.com/serialhex/endorsecount.png)](http://coderwall.com/serialhex)
