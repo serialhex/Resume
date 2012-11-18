@@ -11,7 +11,9 @@
     1. Common Lisp
     1. C++ (I'm okay)
     1. C#
+    1. Javascript
     1. Bash Scripting
+    1. PowerShell
     1. Clojure (slowly learning)
     1. PHP (meh)
     1. Java (it exists)
