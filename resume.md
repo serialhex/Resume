@@ -9,12 +9,12 @@
     1. Ruby
     1. Haskell
     1. Common Lisp
+    1. Clojure % ClojureScript
     1. C++ (I'm okay)
     1. C#
     1. Javascript
     1. Bash Scripting
     1. PowerShell
-    1. Clojure (slowly learning)
     1. PHP (meh)
     1. Java (it exists)
 * Proficient with various operating systems, such as:
@@ -43,7 +43,8 @@
 Github Profile: [https://github.com/serialhex](https://github.com/serialhex)
 E-Mail: [serialhex@gmail.com](mailto:serialhex@gmail.com)
 Phone: 772-643-2425
-Location: Vero Beach, FL
-Editor: Sublime Text 2 (sorry, I don't fit into your Emacs vs vi box (though I'm learning vi))
-Project Euler: ![serialhex](http://projecteuler.net/profile/serialhex.png)
-coderwall: [![endorse](http://api.coderwall.com/serialhex/endorsecount.png)](http://coderwall.com/serialhex)
+Location: Vero Beach, FL  
+Editor: Sublime Text 2 (sorry, I don't fit into your Emacs vs vi box (though I'm learning vi))  
+Project Euler: ![serialhex](http://projecteuler.net/profile/serialhex.png)  
+coderwall: [![endorse](http://api.coderwall.com/serialhex/endorsecount.png)](http://coderwall.com/serialhex)  
+Project Rosalind: <http://rosalind.info/users/serialhex/>

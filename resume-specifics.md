@@ -13,7 +13,7 @@
     * Writing an in-house app to handle all of the various things a small computer store needs, such as customers, work orders, special orders, and technicians.  The billing is taken care of by Quickbooks, so it will have to eventually connect to that in order to create invoices, keep customer information in sync, and the like.
 * Haskell
     * Created a dice probability program, mainly to understand the (exact) probability of rolling a 12 on 2d4 + 3d6.  That project is still not complete and is an active interest of mine.
-    * My website (serialhex.net) uses Hakyll as the static site generator, enabling me to write up posts, and push them to the web quickly (and cheaply, static sites are much nicer on bandwidth & computation!)
+    * My website (serialhex.net) uses Hakyll - a  Haskell static site generator, enabling me to write up posts, and push them to the web quickly (and cheaply as static sites are much nicer on bandwidth & computation!)
 * C#
     * Developed an in-house program that got names, phone numbers and addresses for a contest during the Windows 8 launch.  The program was developed using Visual Studio 2012 and is a Windows 8 native app.  I also used C# to later draw the winner,
 * PHP
@@ -26,4 +26,3 @@
     * Installing printers, and other computer peripherals.  Also troubleshooting when those peripherals stop working for one reason or another.
     * Wired & wireless networking.  Not only helping to plan a network, but setting it up & troubleshooting it when things go wrong (as they eventually do).  Figuring out why computer X can't get online when the rest can, or when only computer X can get online and everyone else is stuck.
     * Recommending upgrades for computers, whether it be for that computer or to a new computer (and setting up said new computer afterwards as the client likes it).
-    *
