@@ -9,7 +9,7 @@
     1. Ruby
     1. Haskell
     1. Common Lisp
-    1. Clojure % ClojureScript
+    1. Clojure & ClojureScript
     1. C++ (I'm okay)
     1. C#
     1. Javascript
