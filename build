@@ -1,4 +1,9 @@
 #!/bin/bash
+echo "html"
 pandoc resume.md -o static/resume.html --self-contained
+echo "specifics html"
 pandoc resume-specifics.md -o static/resume-specifics.html --self-contained
+echo "odf"
 pandoc static/resume.html -o static/resume.odf
+echo "pdf"
+pandoc static/resume.html -o static/resume.pdf

@@ -44,7 +44,3 @@ Github Profile: [https://github.com/serialhex](https://github.com/serialhex)
 E-Mail: [serialhex@gmail.com](mailto:serialhex@gmail.com)
 Phone: 772-643-2425
 Location: Vero Beach, FL  
-Editor: Sublime Text 2 (sorry, I don't fit into your Emacs vs vi box (though I'm learning vi))  
-Project Euler: ![serialhex](http://projecteuler.net/profile/serialhex.png)  
-coderwall: [![endorse](http://api.coderwall.com/serialhex/endorsecount.png)](http://coderwall.com/serialhex)  
-Project Rosalind: <http://rosalind.info/users/serialhex/>
