@@ -6,24 +6,24 @@
 
 ### Skills & Experience:
 * Program in various languages, including (but certainly not limited to):
-    1. Ruby
-    1. Haskell
-    1. Common Lisp
     1. Clojure & ClojureScript
+    1. 1. Ruby
+    1. Haskell
+    1. Javascript
+    1. PowerShell
+    1. Common Lisp
     1. C++ (I'm okay)
     1. C#
-    1. Javascript
     1. Bash Scripting
-    1. PowerShell
-    1. PHP (meh)
-    1. Java (it exists)
+    1. PHP
+    1. Java
 * Proficient with various operating systems, such as:
     * Windows
         * 3.1; 95; 98; ME; 2000; XP; Vista; 7; 8
-    * Linux & other *nix-based OS's
+    * Linux & other Unix-based OS's
         * Archlinux; Debian; Ubuntu; Red Hat; Slackware; Gentoo; FreeBSD; OpenBSD; SuSE
     * Some Mac OS X
-* 5+ years professional computer repair work, mastering tasks akin to:
+* 9+ years professional computer repair work, mastering tasks akin to:
     * Windows & general network administration
         * Running cable
         * Fixing minor networking problems
@@ -34,13 +34,10 @@
 * Familiar with various graphic arts programs, the likes of:
     * The GIMP
     * Adobe Photoshop & Illustrator
-    * MS Paint & Kolourpaint
 
 --------------------------------------------------------------------------------
 
 ## Contact & Other Information
 
+Phone: 772-643-2425 Location: Vero Beach, FL  
 Github Profile: [https://github.com/serialhex](https://github.com/serialhex)
-E-Mail: [serialhex@gmail.com](mailto:serialhex@gmail.com)
-Phone: 772-643-2425
-Location: Vero Beach, FL  
