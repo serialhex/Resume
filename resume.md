@@ -7,7 +7,7 @@
 ### Skills & Experience:
 * Program in various languages, including (but certainly not limited to):
     1. Clojure & ClojureScript
-    1. 1. Ruby
+    1. Ruby
     1. Haskell
     1. Javascript
     1. PowerShell
