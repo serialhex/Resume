@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------
 
-## Computer Programmer, Technician, Budding Technomancer.
+## Computer Programmer & Technician
 
 ### Skills & Experience:
 * A+ certified technician with 9+ years professional computer repair work, mastering tasks akin to:
