@@ -1,0 +1,68 @@
+Justin Patera
+Software Engineer &
+Hardware Technician
+Contact
+Phone/Text: (772) 643-3621
+Email: serialhex@gmail.com
+Local: Vero Beach, FL
+GitHub: [https://github.com/serialhex]
+Linkedin: www.linkedin.com/in/justinpatera
+
+Programming Languages
+I am familiar with a variety of programming languages.
+Because such languages are more like dialects one can use to talk to a computer
+- rather than full-blown languages -
+this list is incomplete, as picking up the basics of a language is quite simple
+and straight-forward once you know some common idioms.
+
+Languages Used
+• Common Lisp • Elixir • Clojure • Scheme • Haskell • XML
+• C • Ruby • JavaScript • Python • PowerShell • SQL • C++
+
+Hardware Expertise
+
+15+ years experience in:
+• Building and repairing PC's • Troubleshooting and repairing laptops • Network administration,
+including initial set up, cable run, switch and router installation and repairs when needed.
+• Technical experience with Windows OS, MacOs/iOS, and Linux OS • Data Management, backup and
+recovery • Server set up, install and maintenance • LAN set up and maintenance • Printer set up
+• Desktop hardware configuration • Network Protocols • Hardware and software purchasing
+
+Software Expertise
+
+6+ years experience in:
+• Microsoft Office including Word, Excel, and PowerPoint • Creation and upkeep of auto generated
+forms • Creation and upkeep of customized tools for time saving and increased accuracy
+• Micrsoft.net tools • Software installation and updates • Domain name registration
+
+
+Work History
+
+Level 3 Inspection (Feb 2016 - Feb 2022):
+Common Lisp, C/C++, VBScript, Python, Powershell.
+
+Premier Citrus (Dec 2018 - Jan 2019):
+C & Assembly, prepped and wired proprietary computer control boxes for laser systems.
+
+ACT Computers (2012-2014):
+Built and repaired computers, set up and debugged networks.
+
+Programming Projects
+Open Source
+
+• Participated in Hacktoberfest 2017, 2018, 2019, 2020 and 2021. Added exercises to the Excercism.io
+Common Lisp path. Worked on Apollo-11 code transcription for historic preservation and other
+projects. (Common Lisp)
+
+• Contributed to Shogun Machine Learning Toolkit with some Random Number Generators
+(Ziggurat method, C)
+
+Closed Source
+• Created automation to take data from Michigan, and automatically upload, post-process, and output
+reports in CSV, Excel and in Google Docs concurrently, both on a per-part and for general part statistics.
+(VBS, Python, Elixir)
+
+• Wrote the operational code necessary for a 3D Structured Light scanner. Mostly including data
+structures, timing routines, and numerous algorithms to process hundreds of images in a few seconds.
+Along with limited visualizations. (C++, CUDA, Common Lisp)
+
