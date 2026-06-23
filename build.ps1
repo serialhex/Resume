@@ -1,2 +1,3 @@
 
 pdflatex Justin-Patera-2026.tex
+pdflatex Justin-Patera-AI-2026.tex
